@@ -1,0 +1,38 @@
+/* Global */
+
+/* Header & nav styles */
+
+header {
+    display: flex;
+    flex-direction:  row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    width: 25%;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+}
+
+
+/* Work styles */
+
+
+/* Contact me */
+
+
+/* Footer */
+
+
+
+/* Media queries */
