@@ -69,7 +69,7 @@ main section h2 {
     text-align: right;
     padding-right: 15px;
     width: 25%;
-    font-size: 2em;
+    font-size: 3em;
 }
 
 main section > div {
@@ -82,10 +82,12 @@ main section > div {
     display: flex;
     flex-direction: row;
     align-items: center;
+    column-gap: 20px;
 }
-#about-me img {
-    width: 20%;
-    height: 20%;
+#about-me img,
+#about-me p {
+    width: 33.3%;
+    line-height: 150%;
 }
 
 /* Work */
@@ -161,6 +163,18 @@ main section > div {
 }
 
 /* Contact me */
+#contact-info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 30px ;
+}
+
+#contact-info a {
+    color:#4e59c0;
+    font-size: 150%;;
+}
+
 
 
 /* Footer */
