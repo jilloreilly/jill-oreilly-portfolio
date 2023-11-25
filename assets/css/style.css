@@ -130,6 +130,13 @@ main section > div {
 
 }
 
+.work-grid-area a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+}
+
 #main-work {
     grid-area: main-work;
     background-image: url(../images/work-horiseon.png);    
