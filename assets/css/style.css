@@ -30,19 +30,21 @@ header {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    background: url(../images/hero.jpg) 0 50px no-repeat;
+    background: url(../images/hero.jpg) center 68px no-repeat;
     background-size: cover;
-    padding: 1vw 3vw 4vw 0;
+    padding: 1vw 3vw 12vw 0;
 }
 
 header h1 {
-    width: 25%;
+    width: 20%;
     background: var(--light);
     color: #4e59c0;
+    text-align: right;
+    padding: 5px 10px;
 }
 
 nav {
-    width: 75%;
+    width: 80%;
 }
 
 nav ul {
@@ -61,6 +63,13 @@ nav a {
     color: var(--light); 
 }
 
+.subtitle {
+    align-self: flex-end;
+    background: var(--light);
+    color: #4e59c0;
+    text-align: right;
+    padding: 5px 10px;
+}
 
 /* Main styling */
 main {
