@@ -33,6 +33,7 @@ header {
     background: url(../images/hero.jpg) center 68px no-repeat;
     background-size: cover;
     padding: 1vw 3vw 12vw 0;
+    position: relative;
 }
 
 header h1 {
@@ -64,11 +65,14 @@ nav a {
 }
 
 .subtitle {
-    align-self: flex-end;
     background: var(--light);
+    box-shadow: 5px 5px 8px #888;
     color: #4e59c0;
-    text-align: right;
+    font-size: 1.5em;
     padding: 5px 10px;
+    position: absolute;
+    bottom: 15px;
+    right: 30px;
 }
 
 /* Main styling */
@@ -79,7 +83,7 @@ main {
 main section {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: flex-start;
     padding: 3vw 4vw;
 }
 
