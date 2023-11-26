@@ -220,15 +220,16 @@ main section > div {
 
 /* Contact me */
 #contact-info {
+    align-items: center;
+    column-gap: 30px;
     display: flex;
     flex-direction: row;
-    align-items: center;
-    column-gap: 30px ;
+    padding: 10px 20px;
 }
 
 #contact-info a {
     color: var(--blue);
-    font-size: 150%;;
+    font-size: 1.25em;
 }
 
 /* Footer */
