@@ -17,18 +17,19 @@
   }
 
 body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background: var(--blue);
     color: var(--blue);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 /* Header & nav styles */
 
 header {
+    align-items: center;
     display: flex;
     flex-direction:  row;
     justify-content: space-between;
-    align-items: center;
+    
     flex-wrap: wrap;
     background: url(../images/hero.jpg) center 85px no-repeat;
     background-size: cover;
@@ -243,15 +244,17 @@ footer {
 /* Media queries */
 
 @media only screen and (max-width: 1000px) {
-   /* #navigation {
-      display: none;
+    header h1 {
+        font-size: 2em;
+        width: 30%;
     }
-    .icons {
-      margin-left: auto;
-    }*/
-  }
+
+    nav {
+        width: 70%;
+    }
+}
   
-  @media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
     /* Header */
     
     header {
@@ -356,29 +359,6 @@ footer {
     #contact-info a {
         font-size: 1em;
     }
-
-    /********/
     
-    
-    #headline {
-      position: static;
-      margin: 20px;
-    }
-    #heroGrid {
-      grid-template-areas:
-      "featuredProduct featuredProduct"
-      "secondaryProduct CTA";
-    }
-    #categoryGrid {
-      grid-template-rows: 300px 300px 300px 300px 300px;
-      grid-template-columns: 1fr;
-      grid-template-areas:
-        "bookcases"
-        "bedroom"
-        "patio"
-        "couches"
-        "desks"
-      ;
-    }
   }
   
