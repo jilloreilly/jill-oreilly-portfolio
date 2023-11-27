@@ -11,7 +11,7 @@ This portfolio webpage showcases the front-end development skills I have gained 
     - The __navigation__ will take you to the following sections:
         - **About me** contains an avatar image and a short paragraph about me and my experience as a web developer
         - **Work** showcases projects I've worked on through the bootcamp or previous work as a developer. Clicking on a link will open the deployed site in a new tab or window
-        - **Contact me** contains links to email me, my github page, my Linked in page and my CV.
+        - **Contact me** contains links to email me, my github page, my Linked in page and my CV (PDF format).
 
 - The website has been optimised for viewing across all devices. Please see below for screenshots of desktop and mobile view of the page: 
 
