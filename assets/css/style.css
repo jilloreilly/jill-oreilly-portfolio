@@ -360,6 +360,7 @@ footer {
         font-size: 1em;
         row-gap: 20px;
         width: 100%;
+        padding: 20px 0 10px;
     }
 
     #contact-info a {
