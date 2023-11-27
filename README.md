@@ -2,7 +2,7 @@
 
 ## Description
 
-This portfolio webpage showcases the front-end skills I have learnt through the Front-end development course provided by EdX as well as my previous work as a web developer.
+This portfolio webpage showcases the front-end development skills I have gained through the Front-end web development bootcamp provided by EdX as well as my previous work as a web developer.
 
 
 ## Usage
