@@ -8,10 +8,21 @@ This portfolio webpage showcases the front-end skills I have learnt through the 
 ## Usage
 
 - Jill O'Reilly's portfolio webpage can be accessed online on Github pages: [https://jilloreilly.github.io/jill-oreilly-portfolio/](https://jilloreilly.github.io/jill-oreilly-portfolio/)
+    - The __navigation__ will take you to the following sections:
+        - **About me** contains an avatar image and a short paragraph about me and my experience as a web developer
+        - **Work** showcases projects I've worked on through the bootcamp or previous work as a developer. Clicking on a link will open the deployed site in a new tab or window
+        - **Contact me** contains links to email me, my github page, my Linked in page and my CV.
 
-- The website has been optimised for viewing across all devices through responsive blah blah
+- The website has been optimised for viewing across all devices. Please see below for screenshots of desktop and mobile view of the page: 
+
+**Desktop**
 
 ![Jill O'Reilly's portfolio webpage includes a navigation bar, a header image, "About me" section, "Work" section with text, images and links to deployed websites, a "Contact me" section with multiple ways to get in touch.](assets/images/screenshot-desktop.png)
+
+**Mobile**
+
+![Jill O'Reilly's portfolio webpage includes a navigation bar, a header image, "About me" section, "Work" section with text, images and links to deployed websites, a "Contact me" section with multiple ways to get in touch.](assets/images/screenshot-mobile.png)
+
 
 ## Credits
 
