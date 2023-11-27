@@ -9,18 +9,20 @@ This portfolio webpage showcases the front-end skills I have learnt through the 
 
 - Jill O'Reilly's portfolio webpage can be accessed online on Github pages: [https://jilloreilly.github.io/jill-oreilly-portfolio/](https://jilloreilly.github.io/jill-oreilly-portfolio/)
 
+- The website has been optimised for viewing across all devices through responsive blah blah
+
 ![Jill O'Reilly's portfolio webpage includes a navigation bar, a header image, "About me" section, "Work" section with text, images and links to deployed websites, a "Contact me" section with multiple ways to get in touch.](assets/images/screenshot-desktop.png)
 
 ## Credits
 
-Thankyou to the following: 
+Thank you to the following: 
 
-- CSS Tricks
-- W3C Schools
-- Stack overflow
-- freepik for hero image
-- canva for avatar
-- https://favicon.io/favicon-converter/
+- CSS Tricks for tips on [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and [grids](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- W3C Schools for [CSS variables](https://www.w3schools.com/css/css3_variables.asp), [CSS combinators](https://www.w3schools.com/css/css_combinators.asp)
+- Stack overflow for [transparent overlay](https://stackoverflow.com/questions/17859993/basic-css-how-to-overlay-a-div-with-semi-transparent-div-on-top)
+- Hero image from [freepik](https://www.freepik.com/free-vector/hand-drawn-abstract-organic-shapes-background_6674913.htm#from_view=detail_alsolike#position=10)
+- Avatar designed on [Canva](https://www.canva.com/)
+- Favicons - [favicon.io](https://favicon.io/favicon-converter/)
 
 ## License
 
@@ -45,4 +47,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Technologies Used
+
+![Static Badge](https://img.shields.io/badge/HTML5-orange)
+![Static Badge](https://img.shields.io/badge/CSS3-blue)
+
 
